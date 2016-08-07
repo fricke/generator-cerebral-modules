@@ -1,4 +1,4 @@
-# generator-stem-cerebral [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-stem-cerebral [![NPM version][npm-image]][npm-url] 
 > A generator to help with the creation of modules, signals, and state
 
 ## Installation
@@ -30,7 +30,3 @@ Apache-2.0 © [Chris Fricke]()
 
 [npm-image]: https://badge.fury.io/js/generator-stem-cerebral.svg
 [npm-url]: https://npmjs.org/package/generator-stem-cerebral
-[travis-image]: https://travis-ci.org/fricke/generator-stem-cerebral.svg?branch=master
-[travis-url]: https://travis-ci.org/fricke/generator-stem-cerebral
-[daviddm-image]: https://david-dm.org/fricke/generator-stem-cerebral.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/fricke/generator-stem-cerebral
