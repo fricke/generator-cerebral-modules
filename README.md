@@ -7,7 +7,7 @@ First, install [Yeoman](http://yeoman.io) and generator-stem-cerebral using [npm
 
 ```bash
 npm install -g yo
-npm install -g generator-stem-cerebral
+npm install -g generator-cerebral-modules
 ```
 
 Then generate your new project:
